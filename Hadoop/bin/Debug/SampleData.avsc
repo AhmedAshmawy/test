@@ -1,0 +1,1 @@
+{"type":"record","name":"HadoopSerialization.Person","fields":[{"name":"First_Name","type":["null","string"]},{"name":"Street","type":["null","string"]},{"name":"City","type":["null","string"]},{"name":"State","type":["null","string"]}]}

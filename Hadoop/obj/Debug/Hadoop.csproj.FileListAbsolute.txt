@@ -1,0 +1,32 @@
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Hadoop.exe.config
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.csprojResolveAssemblyReference.cache
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Hadoop.exe
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Hadoop.pdb
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Microsoft.Hadoop.Avro.dll
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Newtonsoft.Json.dll
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Newtonsoft.Json.xml
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.exe
+D:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.pdb
+\\shamsha-test\Share\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Hadoop.exe.config
+\\shamsha-test\Share\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.exe
+\\shamsha-test\Share\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.pdb
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Hadoop.exe.config
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.exe
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.pdb
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\obj\Debug\Hadoop.csprojResolveAssemblyReference.cache
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Hadoop.exe
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Hadoop.pdb
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Microsoft.Hadoop.Avro.dll
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Newtonsoft.Json.dll
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\Newtonsoft.Json.xml
+C:\HadoopExamples\HadoopSamples\Hadoop\Hadoop\bin\Debug\SampleData.xml
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\bin\Debug\Hadoop.exe.config
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\obj\Debug\Hadoop.exe
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\obj\Debug\Hadoop.pdb
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\bin\Debug\SampleData.xml
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\bin\Debug\Hadoop.exe
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\bin\Debug\Hadoop.pdb
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\bin\Debug\Microsoft.Hadoop.Avro.dll
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\bin\Debug\Newtonsoft.Json.dll
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\bin\Debug\Newtonsoft.Json.xml
+H:\OMS Projects\Schema Evolution In Avro Serialization\C#\Hadoop\obj\Debug\Hadoop.csprojResolveAssemblyReference.cache

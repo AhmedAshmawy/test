@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Person xmlns="http://tempuri.org/Sample.xsd">
+  <Name>Test</Name>
+  <Street>40th</Street>
+  <City>Redmond</City>
+  <State>USA</State>
+</Person>
