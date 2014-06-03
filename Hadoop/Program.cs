@@ -26,7 +26,7 @@ namespace HadoopSerialization
                 }
             }
 
-
+            // hi ahmed
             var serializer = new AvroSerializer(typeof(Person));
             StreamWriter schemafs = new StreamWriter(File.Create(@"SampleData.avsc"));
             schemafs.Write(serializer.Schema.ToString());
